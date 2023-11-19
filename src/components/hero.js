@@ -30,7 +30,7 @@ export default function Hero(props) {
           <div style={style.hero_branding_logo_background_blur}></div>
           <div>
             {/* TODO: Update the hero texts */}
-            <span style={style.hero_branding_logo_text}>FindVC</span>
+            <span style={style.hero_branding_logo_text}>SearchVC</span>
           </div>
         </div>
         {/* Search section */}

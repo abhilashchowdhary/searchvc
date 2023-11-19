@@ -24,7 +24,7 @@ export default function Header() {
           <div style={style.header_wrapper}>
             <div>
               {/* TODO: Update the logo */}
-              <span style={style.logo_text}>FindVC.ai</span>
+              <span style={style.logo_text}>SearchVC.ai</span>
             </div>
             <div style={style.header_button_container}>
               <button
