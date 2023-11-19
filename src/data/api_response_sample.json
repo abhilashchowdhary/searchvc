@@ -1,0 +1,326 @@
+{
+  "success_status": true,
+  "data": {
+    "Wavemaker Partners": {
+      "companies": [
+        {
+          "name": "Viagogo",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEefZ2_gXdvQA/company-logo_200_200/0/1539273099528/viagogo_logo?e=1704931200&v=beta&t=Z2T1DqOjAIl_OdAC7OPQ89UB4xaP44aCnFtZk7mRsnM"
+        },
+        {
+          "name": "Hardskills",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEgjNpdR3ZhBg/company-logo_200_200/0/1611065333949/hardskills_pte_ltd_logo?e=1704326400&v=beta&t=VcVhjguaGQBptHRfHI_e8r21ZHh_tDyRtTpX2M3S_xA"
+        },
+        {
+          "name": "Flixstock",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEJ1IL_uGRGTg/company-logo_200_200/0/1668412240318/flixstock_logo?e=1704326400&v=beta&t=Uxd-CQWZnXS0e7XjRU16CnOw7WtXmGd2rSQDFIJPaP4"
+        },
+        {
+          "name": "Gem",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEtKVVGQ8GJoA/company-logo_200_200/0/1646152865446/gem_recruiting_software_logo?e=1704326400&v=beta&t=_fhtJt9-Ys36Tye4JGwToaOpuYHKZVD4bqIDH_nJPws"
+        },
+        {
+          "name": "The Straits Network Limited",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEVM044JTc2EQ/company-logo_200_200/0/1656924854084/lynkglobal_logo?e=1704931200&v=beta&t=7W0OiQ_7tFPcZAtPYy-N-tyKvHj-eEsxSvCxoVTN4iU"
+        },
+        {
+          "name": "Zilingo",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEwGiJKyEfo1A/company-logo_200_200/0/1593149105245/zilingo_logo?e=1704931200&v=beta&t=OoXyVC1PJYps7LUZhkkktAFHOeatg4581Tq0bL8wVZI"
+        },
+        {
+          "name": "Omnistream",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQFi-MZxw5mYWg/company-logo_200_200/0/1622973414874/omnistreamlive_logo?e=1704931200&v=beta&t=TB51TkU1R3lBpoWqlqlRwI-UkUBgRGyN3tim_2VkF24"
+        },
+        {
+          "name": "Amity",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQFRUK0dJbYKdA/company-logo_200_200/0/1625118928173/amity_hq_logo?e=1704326400&v=beta&t=DhfdrdNLHljg3t-i0nKbNFdYSnMqLzPv9MmYMXAd0Y0"
+        },
+        {
+          "name": "Adly",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQFsKzZPN8pR0w/company-logo_200_200/0/1519916981827?e=1704326400&v=beta&t=GAh50GStPOVMZKWZKAFodDH-zKEYWg2D9r2Y42fhmmM"
+        },
+        {
+          "name": "Gushcloud International",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQFxaqz6lk5i6g/company-logo_200_200/0/1654845437063/gushcloud_logo?e=1704326400&v=beta&t=9X5eDbUZ9Q7rkhy3OLIi_wcGwXwpXIFTytg_czP_XyU"
+        }
+      ],
+      "total_investments": 215,
+      "investment_in_description_space": 1,
+      "round_participated": ["series_a", "series_c", "series_unknown", "seed"]
+    },
+    "Delivery Hero": {
+      "companies": [
+        {
+          "name": "Omnistream",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQFi-MZxw5mYWg/company-logo_200_200/0/1622973414874/omnistreamlive_logo?e=1704931200&v=beta&t=TB51TkU1R3lBpoWqlqlRwI-UkUBgRGyN3tim_2VkF24"
+        },
+        {
+          "name": "Bluu Seafood",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQFjUUp6WmOexA/company-logo_200_200/0/1647509592071/bluu_bio_logo?e=1704931200&v=beta&t=hyuJNWcrOMXhp-eulrvhpLQeOiiW_9ZIQB8UuNsJBJY"
+        },
+        {
+          "name": "BIO-LUTIONS",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQFj-XJlTom3gg/company-logo_200_200/0/1519900007657?e=1704326400&v=beta&t=kjyILWylAgzW7zme9h5WUoYuz7_HbUg2brFGPpiokmk"
+        },
+        {
+          "name": "Flash Coffee",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQFmDDPSqIinbQ/company-logo_200_200/0/1656649002565/flash_coffee_logo?e=1704326400&v=beta&t=zeOYasRCgij75Wz255hi_MYMRm5wSWs7mXROP8ZAoVA"
+        },
+        {
+          "name": "Buo",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQFy3SlCoVblPw/company-logo_200_200/0/1677668573375/shopbuo_logo?e=1704931200&v=beta&t=wCRP0ITKUkrnhn4d2cK4O3T1IETxAMnH73d8qOT7Dsg"
+        },
+        {
+          "name": "PedidosYa",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQH7IjoCNSFYFQ/company-logo_200_200/0/1610978436293/pedidosya_logo?e=1704931200&v=beta&t=xOnbAK1lHq2V9JMCw9s2ODAjQ_JewyTw-KQMb8HzLDo"
+        },
+        {
+          "name": "Toku",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQHoe58etkU37g/company-logo_200_200/0/1675676757840/toku_global_logo?e=1704326400&v=beta&t=vKp67XcbMAp7yCTiMyDV4FrkY_zs3qxh8_zbbHrvzrA"
+        },
+        {
+          "name": "WhyQ",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQHpiW8x8DqBuQ/company-logo_200_200/0/1655872775780/whyq_pte_ltd_logo?e=1704931200&v=beta&t=cqCxJJVGGYNODa30Ez6NATZyIqMiDSIHcrF3XPAFlz0"
+        },
+        {
+          "name": "Gorillas",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQHzfrX6I9tq5A/company-logo_200_200/0/1626786762878/gorillasapp_logo?e=1704326400&v=beta&t=57lqWJTlvPgo5dnnR3cYCzRs10xKfeg0ES3wPe41Ma4"
+        },
+        {
+          "name": "The nu company",
+          "logo": "https://media.licdn.com/dms/image/C4E0BAQFg69yhlXaWkQ/company-logo_200_200/0/1679074308335/thenueco_logo?e=1704326400&v=beta&t=P_VSaF4XmjVCVJW7XzWnCoCs6zzzim71W14xgoZLofw"
+        }
+      ],
+      "total_investments": 31,
+      "investment_in_description_space": 1,
+      "round_participated": ["series_a", "series_b"]
+    },
+    "Uber": {
+      "companies": [
+        {
+          "name": "Kranus Health",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQE76J1oC5Mb9g/company-logo_200_200/0/1637166394320/kranus_health_logo?e=1704931200&v=beta&t=iv5mwp6euVt56jIMOlqTgrH25USmTTua0K08SHA5mCg"
+        },
+        {
+          "name": "Nogin",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQE7HU6mLkJP7A/company-logo_200_200/0/1648840794141/nogincommerce_logo?e=1704931200&v=beta&t=b2rkJ-lif5aKh3bxd52mffR3gemZqVpWyZ9SBqCjggw"
+        },
+        {
+          "name": "The Finnish Long Drink",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEAqyAQ347V1g/company-logo_200_200/0/1588226580925/the_long_drink_company_logo?e=1704931200&v=beta&t=7sqjKJD0kLoa_EKrLbvl8CgLfsrLPDTtlCljORw1bdw"
+        },
+        {
+          "name": "PharmEasy",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEBFZNcYoHSYQ/company-logo_200_200/0/1648451594079/pharmeasy_logo?e=1704326400&v=beta&t=E7-329_mKWr1Ux9Duh0vw3MRdN1fGYeuzeZXDcD06YU"
+        },
+        {
+          "name": "A24",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEC9ZRXZ1ze8A/company-logo_200_200/0/1594846357268/a24_logo?e=1704931200&v=beta&t=zOklDRfzwcMrF3EdYvAwFGb8RbnKmjE0o_4GdtBrhEw"
+        },
+        {
+          "name": "IONIQ",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEeGYbpTULfjA/company-logo_200_200/0/1642478863293?e=1704931200&v=beta&t=G4v6bHVk0DB8EukNl5XMKYQT-4kFgOfE5yb6UCe8kWo"
+        },
+        {
+          "name": "Girls Who Code",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEHUTYYyPFEhQ/company-logo_200_200/0/1588694948823/girlswhocode_logo?e=1704931200&v=beta&t=9n0U0e4YKHHbyD6ARppOaJ5gME40tk9g1OaYKx9yTDA"
+        },
+        {
+          "name": "Zenedge",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEjS29yQ2d7fA/company-logo_200_200/0/1520290013695?e=1704931200&v=beta&t=_dKYFV9NVsh6V3zhur0PSWm23O2q9BwmMW8ldeA98pc"
+        },
+        {
+          "name": "Ambee",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEX0jFYjMuNfw/company-logo_200_200/0/1657522182571/getambee_logo?e=1704931200&v=beta&t=irn0KYvby2xAakMsEsL150Qu6LmKXOXzp8cGUgs2hQ0"
+        },
+        {
+          "name": "Swft",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQF22jbqawOuQg/company-logo_200_200/0/1638795199975?e=1704931200&v=beta&t=9vHUnn7gocZePxECzIsj6mHyZrxCJPm_w3XWtCuNGNY"
+        }
+      ],
+      "total_investments": 113,
+      "investment_in_description_space": 1,
+      "round_participated": [
+        "series_d",
+        "series_a",
+        "series_c",
+        "series_g",
+        "series_f",
+        "private_equity",
+        "series_unknown",
+        "debt_financing",
+        "seed",
+        "series_b"
+      ]
+    },
+    "DX Ventures": {
+      "companies": [
+        {
+          "name": "SimpliFi",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEbLvUIwvzkOw/company-logo_200_200/0/1626879180497/simplifipay_logo?e=1704931200&v=beta&t=7GTUo2WcI8xSeL71xd0o8TNIwfEAow0lI59jcC5twTA"
+        },
+        {
+          "name": "OnePort 365",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEpsUpvE51Prg/company-logo_200_200/0/1652438687933/oneport365_logo?e=1704326400&v=beta&t=q6FSTdVveewNiKw7KN1VI4xf_fjrliiOjnhu30VsZOA"
+        },
+        {
+          "name": "Autochek",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEVAvL5Rw4IPA/company-logo_200_200/0/1609940599708/autocheknigeria_logo?e=1704931200&v=beta&t=7S09_X6tElZday72Dl2zob_TF9j2Mvw_bSewWvfrdY4"
+        },
+        {
+          "name": "Dash",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQF3F_Gr9ggzAg/company-logo_200_200/0/1519856891360?e=1704326400&v=beta&t=s99Ls9lhil74WdCrS8dS4ZKDOcsfsVCe_McVdU9d_4g"
+        },
+        {
+          "name": "Wowzi",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQF8qmzq_Dq4RQ/company-logo_200_200/0/1662643514766/wowzi_logo?e=1704931200&v=beta&t=pq-T1S1ECxRGncxlh8EeyiKPCUkTiCfTTddu2ckGVLo"
+        },
+        {
+          "name": "Bluu Seafood",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQFjUUp6WmOexA/company-logo_200_200/0/1647509592071/bluu_bio_logo?e=1704931200&v=beta&t=hyuJNWcrOMXhp-eulrvhpLQeOiiW_9ZIQB8UuNsJBJY"
+        },
+        {
+          "name": "Spektra Inc.",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQFSqkqstFCdAQ/company-logo_200_200/0/1654084649049/dash_spektra_inc_logo?e=1704931200&v=beta&t=mvnW_0O9yffOmWLldcYiF_w0ABvM-bt-X9xURoiaK8Y"
+        },
+        {
+          "name": "Minly",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQG1ym3nFpuabA/company-logo_200_200/0/1602088371117/minly_logo?e=1704326400&v=beta&t=okAG7cg3uF4i2jyyTu7E6nV_LPrtVwBzCCjzDw5j2sU"
+        },
+        {
+          "name": "MoneyFellows",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQGD3otvaD7ByA/company-logo_200_200/0/1674402130669/moneyfellows_logo?e=1704931200&v=beta&t=K8ySJJ_ux0SHCnXUbiXM6XmMA01NKZF6d6wUl3WKcGc"
+        },
+        {
+          "name": "Franc",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQGjRYIpjTSqAg/company-logo_200_200/0/1612714518193/francgroup_logo?e=1704931200&v=beta&t=8xoc-oGIEa-76b29FctKkTVlD_743hsDv1-Gj_zX528"
+        }
+      ],
+      "total_investments": 35,
+      "investment_in_description_space": 1,
+      "round_participated": ["series_a", "series_b"]
+    },
+    "Western Technology Investment": {
+      "companies": [
+        {
+          "name": "Fliptop",
+          "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGxL1Ib3iGcag/company-logo_200_200/0/1519897298778?e=1677110400&v=beta&t=UagchqohTr1z0Zg-v_NcBmkhLbo2XMx7kfXK3bFI2ck"
+        },
+        {
+          "name": "Quinio",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQE1Gy6_X0-0dQ/company-logo_200_200/0/1634668820008/quinio_latam_logo?e=1704931200&v=beta&t=MaJUFhc4fMrJHOQwYO4ol25FI0VYSlcf3DqGfSoGC_Y"
+        },
+        {
+          "name": "WiSpry",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQE2-hYb-zINtg/company-logo_200_200/0/1640153962217/wispry_logo?e=1704326400&v=beta&t=ePxDolcyhlJae9bAwUKrnNb2hiSKuJVW4zdzghjTpOM"
+        },
+        {
+          "name": "Zodiac",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQE3FYMVpCJTNg/company-logo_200_200/0/1519922054486?e=1704326400&v=beta&t=StWDd3IEyyfpl0Ma5YtMZNhpnhNDMYq3mDKnYjx46dY"
+        },
+        {
+          "name": "Corona Labs",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQE3Q8ZREH-9lA/company-logo_200_200/0/1519878200177?e=1704326400&v=beta&t=ROGzPH9HIp8u26nkilvTKSfjI6g9NRdy6p5ueeC2NXg"
+        },
+        {
+          "name": "MeMed",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEeH71VnJWWQg/company-logo_200_200/0/1622461508222/memed_dx_logo?e=1704326400&v=beta&t=s9uV3XZCZ2RqbHpVTpoMvYlRHrqvfXbveVroz_4bTTE"
+        },
+        {
+          "name": "DisplayLink",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEfGQarmqcQ-g/company-logo_200_200/0/1588069320087/displaylink_logo?e=1704326400&v=beta&t=RizCbaYlM167FpXJhKJDBjIm2dmbM9bkKYy3rw1lILo"
+        },
+        {
+          "name": "Myro",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQE--Gjg_o178g/company-logo_200_200/0/1525292631642/mymyro_logo?e=1704326400&v=beta&t=GWtm25K83dJ6VEVwisFk6Ta7ShlW67ZMKLG5HSmpsJ8"
+        },
+        {
+          "name": "Just Auto Insurance",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEgsBkiIyzrow/company-logo_200_200/0/1602166523283/just_insurance_logo?e=1704326400&v=beta&t=_IFWIKr7wbQvy5CVxEGSI5u7KFZTUW13bPi3d2GQ42I"
+        },
+        {
+          "name": "PerformLine",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEKef_65z-CUA/company-logo_200_200/0/1647957530825/performline_inc_logo?e=1704931200&v=beta&t=1sIiJqdC3d5XDaVPXOMT9XQQEqi2XtNZUplP9ONXUbs"
+        }
+      ],
+      "total_investments": 252,
+      "investment_in_description_space": 1,
+      "round_participated": [
+        "series_b",
+        "series_c",
+        "private_equity",
+        "series_unknown",
+        "seed",
+        "series_a"
+      ]
+    },
+    "Neo": {
+      "companies": [
+        {
+          "name": "Dapix",
+          "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQErZ7HjuyB_lw/company-logo_200_200/0/1542496935263?e=1675296000&v=beta&t=CiDoMeImGAZkW9GeWk9IhxCFE4tvAFZvn23FUEovm6I"
+        },
+        {
+          "name": "Minterest",
+          "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEVEWGeYgs5rg/company-logo_200_200/0/1611047475130?e=1663200000&v=beta&t=W7-Y8u0qaLXB1HZgj0256Eu6jvt2DZTTH1GWEGwPC5o"
+        },
+        {
+          "name": "Rarin LLC",
+          "logo": "https://media-exp1.licdn.com/dms/image/C560BAQFk41EuytB5Ow/company-logo_200_200/0/1654739071311?e=1663200000&v=beta&t=Fy9fjmN5BBSnsmmTo92B-A8WetSLoH6FW5fUgMVmSCQ"
+        },
+        {
+          "name": "Voicemod",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQE063lu0nHVTQ/company-logo_200_200/0/1614265334241/voicemod_logo?e=1704931200&v=beta&t=BoyBr5wKBvyVpWGQFuUPhIxylw0ePipMiUIZa_aJIoQ"
+        },
+        {
+          "name": "Macromoltek Inc.",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQE2YAmsFp8IDg/company-logo_200_200/0/1519908851717?e=1704931200&v=beta&t=XglaSCk1RSM9ioZVbjJXjm0UQNNcSs1Cx0IdlmfzSyc"
+        },
+        {
+          "name": "LUmos",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQE3nHN4UxurFg/company-logo_200_200/0/1651331078553/lumosidentity_logo?e=1704931200&v=beta&t=WHQguWzsMGejqUEsuhWsRulSxRD_I7NLtQec8boMyaw"
+        },
+        {
+          "name": "neoSaej",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEjpvxez1Njig/company-logo_200_200/0/1519915677702?e=1704931200&v=beta&t=LnmAt8n-W4A2XP25cw89cjI2blCUZC29VY0DHT-Zlzw"
+        },
+        {
+          "name": "beatvest",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEl7LVSCFS-YA/company-logo_200_200/0/1669841690691/beatvest_logo?e=1704326400&v=beta&t=FLXKsGam92-4pEkUE_8mdKLeEBEksZTuo1R58rmG3mk"
+        },
+        {
+          "name": "NowNow",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEMQE-94zPGnw/company-logo_200_200/0/1652792866963?e=1704931200&v=beta&t=A8A1AWphvHvkMJbsofIBwOPa-O8vyGYZgtLQpzuT9JY"
+        },
+        {
+          "name": "Secfix",
+          "logo": "https://media.licdn.com/dms/image/C4D0BAQEPiqHCOPlB1Q/company-logo_200_200/0/1631228996308/secfix_logo?e=1704326400&v=beta&t=cismo_1O5xf1FbNESYH50_ru6oRBlVwHg3vPD_26NFo"
+        }
+      ],
+      "total_investments": 300,
+      "investment_in_description_space": 1,
+      "round_participated": [
+        "pre_seed",
+        "series_a",
+        "series_c",
+        "undisclosed",
+        "convertible_note",
+        "debt_financing",
+        "seed",
+        "series_unknown",
+        "series_b",
+        "angel"
+      ]
+    }
+  },
+  "detected_filters": [
+    {
+      "label": "company_hq",
+      "api_name": "hq_country",
+      "is_integer_field": false,
+      "value": "USA",
+      "operation": "="
+    }
+  ],
+  "total_investor_count": 118
+}
