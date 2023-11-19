@@ -21,7 +21,7 @@ export default function Home() {
     setResponse({});
     console.log("HITTING CRUSTDATA COMPANYGPT API");
     const response = await fetch(
-      "https://crustdata.com/company_gpt/get_investors_from_prompt/",
+      "http://127.0.0.1:8000/company_gpt/get_investors_from_prompt/",
       {
         method: "POST",
         headers: {
